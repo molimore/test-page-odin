@@ -2,9 +2,8 @@ body {
     background-color: beige;
 }
 
-
 .numberbox {
-   display: flex; 
+    display: flex;
 }
 
 .one {
