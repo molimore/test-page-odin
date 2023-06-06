@@ -4,20 +4,28 @@ body {
 
 .numberbox {
     display: flex;
+    border: 10px solid rgb(255, 0, 242);
+    width: 300px;
+    height: 300px;
+    justify-content: space-between;
 }
 
 .one {
     background-color: red;
+    width: 50px;
 }
 
 .two {
     background-color: blue;
+    
 }
 
 .three {
     background-color: green;
+    
 }
 
 .four {
     background-color: yellow;
+    
 }
